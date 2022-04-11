@@ -1,11 +1,12 @@
 # rust_samples
+[![DepShield Badge](https://depshield.sonatype.org/badges/owner/repository/depshield.svg)](https://depshield.github.io)
 
 Quick Install (Linux or macOS)
 ```
 curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
-rustup update
 rustc --version
 rustup default nightly && rustup update
+rustup default stable && rustup show
 ```
 
 Reference URLs:
