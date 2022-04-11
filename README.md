@@ -8,7 +8,7 @@ rustc --version
 ```
 
 Reference URLs:
-* [The Rust Programming Language](https://plugins.jetbrains.com/plugin/8182-rust/docs/rust-quick-start.html)
+* [The Rust Programming Language](https://doc.rust-lang.org/book/)
 * Local Documentation `rustup doc`
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 * [IntelliJ Rust](https://www.jetbrains.com/rust/)
