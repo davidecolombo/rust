@@ -1,7 +1,7 @@
 # cargo-features = ["edition2021"]
 
 [package]
-name = "ch01-03-hello-cargo"
+name = "ch02-00-guessing-game-tutorial"
 version = "0.1.0"
 edition = "2021"
 
@@ -11,5 +11,5 @@ edition = "2021"
 rand = "0.8.3"
 
 [[bin]]
-name = "ch01-03-hello-cargo"
-path = "ch01-02-hello-world.rs"
+name = "ch02-00-guessing-game-tutorial"
+path = "ch02-00-guessing-game-tutorial.rs"

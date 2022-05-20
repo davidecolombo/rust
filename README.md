@@ -1,4 +1,4 @@
-# rust_samples
+# rust
 
 Quick Install (Linux or macOS)
 ```
